@@ -24,6 +24,12 @@
 ## 2.3. 第3章-图形处理单元
 *[第3章-图形处理单元-3.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC3%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E5%A4%84%E7%90%86%E5%8D%95%E5%85%83-3.0.md)
 
+## 2.4. 第18章-管线优化
+*[第18章-管线优化-18.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC18%E7%AB%A0-%E7%AE%A1%E7%BA%BF%E4%BC%98%E5%8C%96-18.0.md)
+*[第18章-管线优化-18.5-多进程处理](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC18%E7%AB%A0-%E7%AE%A1%E7%BA%BF%E4%BC%98%E5%8C%96-18.5-%E5%A4%9A%E8%BF%9B%E7%A8%8B%E5%A4%84%E7%90%86.md)
+
+## 2.5. 第19章-加速算法
+*[第19章-加速算法-19.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC19%E7%AB%A0-%E5%8A%A0%E9%80%9F%E7%AE%97%E6%B3%95-19.0.md)
 
 
 
