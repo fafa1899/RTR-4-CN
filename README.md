@@ -19,7 +19,7 @@
 
 [第2章-图形渲染管线-2.1-架构](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.1-%E6%9E%B6%E6%9E%84.md)
 
-*[第2章-图形渲染管线-2.2-应用程序阶段](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.2-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E9%98%B6%E6%AE%B5.md)
+[第2章-图形渲染管线-2.2-应用程序阶段](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.2-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E9%98%B6%E6%AE%B5.md)
 
 ## 2.3. 第3章-图形处理单元
 *[第3章-图形处理单元-3.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC3%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E5%A4%84%E7%90%86%E5%8D%95%E5%85%83-3.0.md)
