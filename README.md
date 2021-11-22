@@ -3,6 +3,8 @@
 
 # 2. 目录
 
+带*标识为完工。
+
 ## 2.1. 第1章-绪论
 [第1章-绪论-1.0.md](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC1%E7%AB%A0-%E7%BB%AA%E8%AE%BA-1.0.md)
 
