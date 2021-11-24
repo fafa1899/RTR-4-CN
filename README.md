@@ -57,6 +57,9 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 ## 2.7. 第19章-加速算法
 *[第19章-加速算法-19.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC19%E7%AB%A0-%E5%8A%A0%E9%80%9F%E7%AE%97%E6%B3%95-19.0.md)
 
+## 2.8. 第23章-图形硬件
+*[第23章-图形硬件-23.0][netlink23.0]
+
 
 [netlink2.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.3-几何处理.pdf
 [netlink2.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.4-光栅化.pdf
@@ -71,3 +74,5 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 [netlink5.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.0.pdf
 [netlink5.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.4-锯齿和抗锯齿.pdf
+
+[netlink23.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.0.pdf
