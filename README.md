@@ -60,6 +60,8 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 ## 2.8. 第23章-图形硬件
 *[第23章-图形硬件-23.0][netlink23.0]
 
+*[第23章-图形硬件-23.1-光栅化][netlink23.1]
+
 
 [netlink2.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.3-几何处理.pdf
 [netlink2.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.4-光栅化.pdf
@@ -76,3 +78,4 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [netlink5.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.4-锯齿和抗锯齿.pdf
 
 [netlink23.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.0.pdf
+[netlink23.1]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.1-光栅化.pdf
