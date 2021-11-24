@@ -42,12 +42,15 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 *[第4章-变换-4.7-投影][netlink4.7]
 
-## 2.5. 第18章-管线优化
+## 2.5. 第5章-着色基础
+*[第5章-着色基础-5.0][netlink5.0]
+
+## 2.6. 第18章-管线优化
 *[第18章-管线优化-18.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC18%E7%AB%A0-%E7%AE%A1%E7%BA%BF%E4%BC%98%E5%8C%96-18.0.md)
 
 *[第18章-管线优化-18.5-多进程处理](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC18%E7%AB%A0-%E7%AE%A1%E7%BA%BF%E4%BC%98%E5%8C%96-18.5-%E5%A4%9A%E8%BF%9B%E7%A8%8B%E5%A4%84%E7%90%86.md)
 
-## 2.6. 第19章-加速算法
+## 2.7. 第19章-加速算法
 *[第19章-加速算法-19.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC19%E7%AB%A0-%E5%8A%A0%E9%80%9F%E7%AE%97%E6%B3%95-19.0.md)
 
 
@@ -59,3 +62,5 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [netlink4.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.4-顶点混合.pdf
 [netlink4.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.5-变形.pdf
 [netlink4.7]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.7-投影.pdf
+
+[netlink5.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.0.pdf
