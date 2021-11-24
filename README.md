@@ -27,6 +27,8 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 [第2章-图形渲染管线-2.3-几何处理][netlink2.3]
 
+[第2章-图形渲染管线-2.4-光栅化][netlink2.4]
+
 *[第2章-图形渲染管线-2.5-像素处理][netlink2.5]
 
 
@@ -55,6 +57,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 
 [netlink2.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.3-几何处理.pdf
+[netlink2.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.4-光栅化.pdf
 [netlink2.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.5-像素处理.pdf
 
 [netlink3.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.0.pdf
