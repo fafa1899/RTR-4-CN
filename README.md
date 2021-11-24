@@ -3,7 +3,11 @@
 
 # 2. 目录
 
-带*标识未完工。
+带*标识未完工的文章。
+
+md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览器查看。
+
+本目录链接的pdf格式，可以正常预览但是无法拾取。
 
 ## 2.1. 第1章-绪论
 [第1章-绪论-1.0.md](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC1%E7%AB%A0-%E7%BB%AA%E8%AE%BA-1.0.md)
@@ -21,6 +25,9 @@
 
 [第2章-图形渲染管线-2.2-应用程序阶段](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.2-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E9%98%B6%E6%AE%B5.md)
 
+[第2章-图形渲染管线-2.3-几何处理][netlink2.3]
+
+
 ## 2.3. 第3章-图形处理单元
 *[第3章-图形处理单元-3.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC3%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E5%A4%84%E7%90%86%E5%8D%95%E5%85%83-3.0.md)
 
@@ -33,4 +40,4 @@
 *[第19章-加速算法-19.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC19%E7%AB%A0-%E5%8A%A0%E9%80%9F%E7%AE%97%E6%B3%95-19.0.md)
 
 
-
+[netlink2.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.3-%E5%87%A0%E4%BD%95%E5%A4%84%E7%90%86.pdf
