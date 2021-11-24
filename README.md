@@ -35,6 +35,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 ## 2.4. 第4章-变换
 *[第4章-变换-4.0][netlink4.0]
+*[第4章-变换-4.4-顶点混合][netlink4.4]
 
 ## 2.5. 第18章-管线优化
 *[第18章-管线优化-18.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC18%E7%AB%A0-%E7%AE%A1%E7%BA%BF%E4%BC%98%E5%8C%96-18.0.md)
@@ -49,3 +50,4 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [netlink2.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.5-%E5%83%8F%E7%B4%A0%E5%A4%84%E7%90%86.pdf
 [netlink3.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.0.pdf
 [netlink4.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.0.pdf
+[netlink4.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.4-顶点混合.pdf
