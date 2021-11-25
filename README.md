@@ -69,6 +69,10 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 *[第23章-图形硬件-23.1-光栅化][netlink23.1]
 
+*[第23章-图形硬件-23.6-颜色缓冲][netlink23.6]
+
+*[第23章-图形硬件-23.7-深度剔除、测试和缓冲][netlink23.7]
+
 
 [netlink2.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.3-几何处理.pdf
 [netlink2.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.4-光栅化.pdf
@@ -90,3 +94,5 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 [netlink23.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.0.pdf
 [netlink23.1]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.1-光栅化.pdf
+[netlink23.6]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.6-颜色缓冲.pdf
+[netlink23.7]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.7-深度剔除、测试和缓冲.pdf
