@@ -52,7 +52,9 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 *[第5章-着色基础-5.5-透明度、Alpha和合成][netlink5.5]
 
 ## 2.6. 第6章-纹理
-*[第6章-纹理-6.0][netlink5.0]
+*[第6章-纹理-6.0][netlink6.0]
+
+*[第6章-纹理-6.6-Alpha映射][netlink6.6]
 
 ## 2.7. 第18章-管线优化
 *[第18章-管线优化-18.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC18%E7%AB%A0-%E7%AE%A1%E7%BA%BF%E4%BC%98%E5%8C%96-18.0.md)
@@ -83,7 +85,8 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [netlink5.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.4-锯齿和抗锯齿.pdf
 [netlink5.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.5-透明度、Alpha和合成.pdf
 
-[netlink5.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第6章-纹理-6.0.pdf
+[netlink6.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第6章-纹理-6.0.pdf
+[netlink6.6]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第6章-纹理-6.6-Alpha映射.pdf
 
 [netlink23.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.0.pdf
 [netlink23.1]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.1-光栅化.pdf
