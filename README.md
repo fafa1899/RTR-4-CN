@@ -58,7 +58,9 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 *[第6章-纹理-6.6-Alpha映射][netlink6.6]
 
 ## 2.7. 第11章-全局光照
-*[第11章-全局光照-11.0][netlink6.6]
+*[第11章-全局光照-11.0][netlink11.0]
+
+*[第11章-全局光照-11.2-常规全局光照][netlink11.2]
 
 ## 2.8. 第18章-管线优化
 *[第18章-管线优化-18.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC18%E7%AB%A0-%E7%AE%A1%E7%BA%BF%E4%BC%98%E5%8C%96-18.0.md)
@@ -96,6 +98,9 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 [netlink6.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第6章-纹理-6.0.pdf
 [netlink6.6]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第6章-纹理-6.6-Alpha映射.pdf
+
+[netlink11.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第11章-全局光照-11.0.pdf
+[netlink11.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第11章-全局光照-11.2-常规全局光照.pdf
 
 [netlink23.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.0.pdf
 [netlink23.1]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.1-光栅化.pdf
