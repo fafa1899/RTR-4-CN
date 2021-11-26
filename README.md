@@ -38,6 +38,8 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 ## 2.3. 第3章-图形处理单元
 -[第3章-图形处理单元-3.0][netlink3.0]
 
+[第3章-图形处理单元-3.1-数据并行架构][netlink3.1]
+
 ## 2.4. 第4章-变换
 *[第4章-变换-4.0][netlink4.0]
 
@@ -89,6 +91,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [netlink2.7]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.7-进一步阅读和资源.pdf
 
 [netlink3.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.0.pdf
+[netlink3.1]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.1-数据并行架构.pdf
 
 [netlink4.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.0.pdf
 [netlink4.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.4-顶点混合.pdf
