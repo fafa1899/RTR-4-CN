@@ -42,6 +42,8 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 -[第3章-图形处理单元-3.2-GPU管线概览][netlink3.2]
 
+[第3章-图形处理单元-3.3-可编程着色器阶段][netlink3.3]
+
 ## 2.4. 第4章-变换
 *[第4章-变换-4.0][netlink4.0]
 
@@ -95,6 +97,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [netlink3.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.0.pdf
 [netlink3.1]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.1-数据并行架构.pdf
 [netlink3.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.2-GPU管线概览.pdf
+[netlink3.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.3-可编程着色器阶段.pdf
 
 [netlink4.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.0.pdf
 [netlink4.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.4-顶点混合.pdf
