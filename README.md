@@ -19,7 +19,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [第1章-绪论-1.3-进一步阅读和资源](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC1%E7%AB%A0-%E7%BB%AA%E8%AE%BA-1.3-%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%98%85%E8%AF%BB%E5%92%8C%E8%B5%84%E6%BA%90.md)
 
 ## 2.2. 第2章-图形渲染管线
-[第2章-图形渲染管线-2.0](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.0.md)
+[第2章-图形渲染管线-2.0][netlink2.0]
 
 [第2章-图形渲染管线-2.1-架构](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.1-%E6%9E%B6%E6%9E%84.md)
 
@@ -95,7 +95,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 *[第23章-图形硬件-23.7-深度剔除、测试和缓冲][netlink23.7]
 
-
+[netlink2.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.0.pdf
 [netlink2.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.3-几何处理.pdf
 [netlink2.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.4-光栅化.pdf
 [netlink2.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.5-像素处理.pdf
