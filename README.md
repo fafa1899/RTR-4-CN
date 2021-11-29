@@ -77,6 +77,8 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 ## 2.8. 第18章-管线优化
 *[第18章-管线优化-18.0][netlink18.0]
 
+*[第18章-管线优化-18.4-优化][netlink18.4]
+
 *[第18章-管线优化-18.5-多进程处理][netlink18.5]
 
 ## 2.9. 第19章-加速算法
@@ -121,6 +123,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [netlink11.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第11章-全局光照-11.2-常规全局光照.pdf
 
 [netlink18.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第18章-管线优化-18.0.pdf
+[netlink18.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第18章-管线优化-18.4-优化.pdf
 [netlink18.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第18章-管线优化-18.5-多进程处理.pdf
 
 [netlink23.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第23章-图形硬件-23.0.pdf
