@@ -54,6 +54,8 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 -[第3章-图形处理单元-3.8-像素着色器][netlink3.8]
 
+[第3章-图形处理单元-3.9-合并阶段][netlink3.9]
+
 ## 2.4. 第4章-变换
 *[第4章-变换-4.0][netlink4.0]
 
@@ -117,6 +119,8 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 [netlink3.6]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.6-曲面细分阶段.pdf
 [netlink3.7]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.7-几何着色器.pdf
 [netlink3.8]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.8-像素着色器.pdf
+[netlink3.9]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.9-合并阶段.pdf
+
 
 [netlink4.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.0.pdf
 [netlink4.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.4-顶点混合.pdf
