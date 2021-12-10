@@ -63,7 +63,9 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 ## 2.4. 第4章-变换
 [第4章-变换-4.0][netlink4.0]
 
-*[第4章-变换-4.1-基础变换][netlink4.1]
+-[第4章-变换-4.1-基础变换][netlink4.1]
+
+-[第4章-变换-4.2-特殊矩阵变换和运算][netlink4.2]
 
 *[第4章-变换-4.4-顶点混合][netlink4.4]
 
@@ -131,6 +133,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 
 [netlink4.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.0.pdf
 [netlink4.1]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.1-基础变换.pdf
+[netlink4.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.2-特殊矩阵变换和运算.pdf
 [netlink4.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.4-顶点混合.pdf
 [netlink4.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.5-变形.pdf
 [netlink4.7]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.7-投影.pdf
