@@ -134,7 +134,7 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 [netlink3.10]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.10-计算着色器.pdf
 [netlink3.11]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.11-进一步阅读和资源.pdf
 
-[netlink4.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.0.pdf
+[netlink4.0]:https://www.cnblogs.com/charlee44/p/15705902.html
 [netlink4.1]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.1-基础变换.pdf
 [netlink4.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.2-特殊矩阵变换和运算.pdf
 [netlink4.3]:https://www.cnblogs.com/charlee44/p/15697481.html
