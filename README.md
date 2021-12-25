@@ -71,6 +71,8 @@ ref:4.1 4.2
 
 -[第4章-变换-4.2-特殊矩阵变换和运算][netlink4.2]
 
+ref:1.2 4.2 4.3
+
 -[第4章-变换-4.3-四元数][netlink4.3]
 
 letex的向量标识
@@ -142,7 +144,7 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 
 [netlink4.0]:https://www.cnblogs.com/charlee44/p/15705902.html
 [netlink4.1]:https://www.cnblogs.com/charlee44/p/15708192.html
-[netlink4.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.2-特殊矩阵变换和运算.pdf
+[netlink4.2]:https://www.cnblogs.com/charlee44/p/15731242.html
 [netlink4.3]:https://www.cnblogs.com/charlee44/p/15697481.html
 [netlink4.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.4-顶点混合.pdf
 [netlink4.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.5-变形.pdf
