@@ -89,15 +89,15 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 
 [第5章-着色基础-5.2-光源][netlink5.2]
 
-[netlink1.2]:netlink1.2
-[netlink6.9]:netlink6.9
-[netlink7.0]:netlink7.0
-[netlink7.1]:netlink7.1
-[netlink9.0]:netlink9.0
-[netlink10.0]:netlink10.0
-[netlink10.1]:netlink10.1
-[netlink11.0]:netlink11.0
-[netlink20.0]:netlink20.0
+[netlink1.2]
+[netlink6.9]
+[netlink7.0]
+[netlink7.1]
+[netlink9.0]
+[netlink10.0]
+[netlink10.1]
+[netlink11.0]
+[netlink20.0]
 
 *[第5章-着色基础-5.4-锯齿和抗锯齿][netlink5.4]
 
