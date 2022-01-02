@@ -87,6 +87,18 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 ## 2.5. 第5章-着色基础
 *[第5章-着色基础-5.0][netlink5.0]
 
+[第5章-着色基础-5.2-光源][netlink5.2]
+
+[netlink1.2]:netlink1.2
+[netlink6.9]:netlink6.9
+[netlink7.0]:netlink7.0
+[netlink7.1]:netlink7.1
+[netlink9.0]:netlink9.0
+[netlink10.0]:netlink10.0
+[netlink10.1]:netlink10.1
+[netlink11.0]:netlink11.0
+[netlink20.0]:netlink20.0
+
 *[第5章-着色基础-5.4-锯齿和抗锯齿][netlink5.4]
 
 *[第5章-着色基础-5.5-透明度、Alpha和合成][netlink5.5]
@@ -151,6 +163,7 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 [netlink4.7]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第4章-变换-4.7-投影.pdf
 
 [netlink5.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.0.pdf
+[netlink5.2]:https://www.cnblogs.com/charlee44/p/15757800.html
 [netlink5.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.4-锯齿和抗锯齿.pdf
 [netlink5.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.5-透明度、Alpha和合成.pdf
 
