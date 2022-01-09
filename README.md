@@ -36,7 +36,9 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 -[第2章-图形渲染管线-2.7-进一步阅读和资源][netlink2.7]
 
 ## 2.3. 第3章-图形处理单元
--[第3章-图形处理单元-3.0][netlink3.0]
+[第3章-图形处理单元-3.0][netlink3.0]
+
+ref [netlink3.3] [netlink18.4] [netlink23.0] [netlink23.3]
 
 [第3章-图形处理单元-3.1-数据并行架构][netlink3.1]
 
@@ -141,7 +143,7 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 [netlink2.6]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.6-管线综述.pdf
 [netlink2.7]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.7-进一步阅读和资源.pdf
 
-[netlink3.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.0.pdf
+[netlink3.0]:https://www.cnblogs.com/charlee44/p/15782083.html
 [netlink3.1]:https://www.cnblogs.com/charlee44/p/15701850.html
 [netlink3.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.2-GPU管线概览.pdf
 [netlink3.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.3-可编程着色器阶段.pdf
