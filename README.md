@@ -44,7 +44,7 @@ ref [netlink3.3] [netlink18.4] [netlink23.0] [netlink23.3]
 
 -[第3章-图形处理单元-3.2-GPU管线概览][netlink3.2]
 
--[第3章-图形处理单元-3.3-可编程着色器阶段][netlink3.3]
+[第3章-图形处理单元-3.3-可编程着色器阶段][netlink3.3]
 
 -[第3章-图形处理单元-3.4-可编程着色和及其API的演变][netlink3.4]
 
@@ -146,7 +146,7 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 [netlink3.0]:https://www.cnblogs.com/charlee44/p/15782083.html
 [netlink3.1]:https://www.cnblogs.com/charlee44/p/15701850.html
 [netlink3.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.2-GPU管线概览.pdf
-[netlink3.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.3-可编程着色器阶段.pdf
+[netlink3.3]:https://www.cnblogs.com/charlee44/p/15789956.html
 [netlink3.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.4-可编程着色和及其API的演变.pdf
 [netlink3.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.5-顶点着色器.pdf
 [netlink3.6]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.6-曲面细分阶段.pdf
