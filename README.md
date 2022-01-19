@@ -101,7 +101,23 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 [netlink11.0]
 [netlink20.0]
 
-*[第5章-着色基础-5.4-锯齿和抗锯齿][netlink5.4]
+[第5章-着色基础-5.3-实现着色模型][netlink5.3]
+
+[netlink6.0]
+[netlink16.6]
+[netlink18.4]
+[netlink20.0]
+
+[第5章-着色基础-5.4-锯齿和抗锯齿][netlink5.4]
+
+[netlink6.0]
+[netlink6.2]
+[netlink12.1]
+[netlink12.2]
+[netlink12.5]
+[netlink15.2]
+[netlink20.1]
+[netlink21.3]
 
 *[第5章-着色基础-5.5-透明度、Alpha和合成][netlink5.5]
 
@@ -166,7 +182,8 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 
 [netlink5.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.0.pdf
 [netlink5.2]:https://www.cnblogs.com/charlee44/p/15757800.html
-[netlink5.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.4-锯齿和抗锯齿.pdf
+[netlink5.3]:https://www.cnblogs.com/charlee44/p/15790004.html
+[netlink5.4]:https://www.cnblogs.com/charlee44/p/15821868.html
 [netlink5.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第5章-着色基础-5.5-透明度、Alpha和合成.pdf
 
 [netlink6.0]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第6章-纹理-6.0.pdf
