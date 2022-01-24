@@ -21,7 +21,7 @@ md格式在GitHub中无法正确显示公式，需要使用其他Markdown浏览�
 ## 2.2. 第2章-图形渲染管线
 [第2章-图形渲染管线-2.0][netlink2.0]
 
--[第2章-图形渲染管线-2.1-架构](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.1-%E6%9E%B6%E6%9E%84.md)
+[第2章-图形渲染管线-2.1-架构][netlink2.1]
 
 -[第2章-图形渲染管线-2.2-应用程序阶段](https://github.com/fafa1899/RTR-4-CN/blob/main/Article/%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF-2.2-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E9%98%B6%E6%AE%B5.md)
 
@@ -42,7 +42,9 @@ ref [netlink3.3] [netlink18.4] [netlink23.0] [netlink23.3]
 
 [第3章-图形处理单元-3.1-数据并行架构][netlink3.1]
 
--[第3章-图形处理单元-3.2-GPU管线概览][netlink3.2]
+[第3章-图形处理单元-3.2-GPU管线概览][netlink3.2]
+
+ref: [netlink18.0] [netlink23.0]
 
 [第3章-图形处理单元-3.3-可编程着色器阶段][netlink3.3]
 
@@ -153,6 +155,7 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 *[第23章-图形硬件-23.7-深度剔除、测试和缓冲][netlink23.7]
 
 [netlink2.0]:https://www.cnblogs.com/charlee44/p/15757876.html
+[netlink2.1]:https://www.cnblogs.com/charlee44/p/15827707.html
 [netlink2.3]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.3-几何处理.pdf
 [netlink2.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.4-光栅化.pdf
 [netlink2.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第2章-图形渲染管线-2.5-像素处理.pdf
@@ -161,7 +164,7 @@ ref:[第4.2.4节] [第17.0节] [第17.1.1节]
 
 [netlink3.0]:https://www.cnblogs.com/charlee44/p/15782083.html
 [netlink3.1]:https://www.cnblogs.com/charlee44/p/15701850.html
-[netlink3.2]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.2-GPU管线概览.pdf
+[netlink3.2]:https://www.cnblogs.com/charlee44/p/15838152.html
 [netlink3.3]:https://www.cnblogs.com/charlee44/p/15789956.html
 [netlink3.4]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.4-可编程着色和及其API的演变.pdf
 [netlink3.5]:https://github.com/fafa1899/RTR-4-CN/blob/main/Pdf/第3章-图形处理单元-3.5-顶点着色器.pdf
